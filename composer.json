@@ -1,6 +1,7 @@
 {
     "require": {
-        "fzaninotto/faker": "^1.6"
+        "fzaninotto/faker": "^1.6",
+        "phpfastcache/phpfastcache": "^5.0"
     },
 
     "autoload": {
